@@ -58,7 +58,7 @@ public class GameManager : MonoBehaviour
         score = 0;
 
         StartCoroutine(SpawnTarget());
-        UpdateScore(0); // Initialize score to 0
+        UpdateScore(score); // Initialize score to 0
 
         titleScreen.gameObject.SetActive(false);
         spawnRate /= difficulty;
