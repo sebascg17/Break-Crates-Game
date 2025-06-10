@@ -1,2 +1,2 @@
 # Break-Crates-Game
-Este es un juego en el que saltan objetos y tu con un clic los tienes que destruir, si dejas caer un de esos objetos pierdes, los unicos objetos que puedes dejar caer son las calaberas y la bombas ya que al tocarlas te restan puntos
+Este es un juego en el que saltan objetos buenos y objetos malos, tu con un clic tienes que destruirlos, si dejas caer uno de esos objetos buenos pierdes, puedes dejar caer los objetos malos, los cuales son calaberas y bombas, ya que al tocarlas te restan puntos.
